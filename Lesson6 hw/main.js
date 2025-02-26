@@ -88,7 +88,7 @@
 //
 // console.log(Cards);
 //
-// Cards.find(card => card.value === 'ace' &&)
+// Cards.find(card => card.value === 'ace' && )
 //
 //
 // console.log(Cards.find(card => card.value === 'ace' && card.cardSuit === 'spade'));
